@@ -4,10 +4,11 @@ This is a goup work for develop a mobile application using flutter. The students
 
 ## Members List
 
-1. **Akayezu Deborah**
-2. **Akayezu Deborah**
-3. **Akayezu Deborah**
-4. **Akayezu Deborah**
+1. **KAYESU  Deborah**
+2. **TUYIZERE Jack**
+3. **MANIRAKIZA Alon**
+4. **MWUBAHAMANA Naike**
+5. **UWIRINGIYIMANA Valentin**
 
 ## Local Development
 
